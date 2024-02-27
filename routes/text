@@ -1,0 +1,8 @@
+#ctrl + j
+#cria ambiente - comando: python -m venv ambiente - ambeinte é o nome que vc da
+#acessa o ambiente: ambiente\Scripts\activate
+# dir
+#pip install fastapi
+#pip install uvicorn
+# roda : python main.py
+# cria um arquivo requirement e coloca as bibliotecas, pip install -r .\requirements.txt
